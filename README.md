@@ -8,6 +8,7 @@
 
 ///// CHECK THE STUFF /////
 
+In MotionSensorDMX\Application\Motion Detection Controller.mxf you can check the following settings to see if everything is working:
 
 Check to see if the patch is connected with the hardware device
 
