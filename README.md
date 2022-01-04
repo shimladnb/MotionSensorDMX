@@ -1,6 +1,8 @@
 # MotionSensorDMX
 
 ///// RUN THE STUFF /////
+- Connect the prototype module to power
+- Connect the prototype module to your local network using an ethernet cable
 - On your computer set your static IP address to 23.0.0.1
 - Open MotionSensorDMX\Application\Motion Detection Controller.mxf with Max 8
 
