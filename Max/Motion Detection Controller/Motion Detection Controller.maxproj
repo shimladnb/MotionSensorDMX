@@ -2,8 +2,8 @@
 	"name" : "Motion Detection Controller",
 	"version" : 1,
 	"creationdate" : 3724163431,
-	"modificationdate" : 3724163432,
-	"viewrect" : [ 0.0, 0.0, 300.0, 500.0 ],
+	"modificationdate" : 3724489589,
+	"viewrect" : [ 25.0, 107.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -15,6 +15,23 @@
 				"local" : 1,
 				"toplevel" : 1
 			}
+,
+			"imp.artnet.controller.maxhelp" : 			{
+				"kind" : "helpfile",
+				"local" : 1
+			}
+
+		}
+,
+		"externals" : 		{
+			"imp.artnet.controller.mxe64" : 			{
+				"kind" : "object",
+				"local" : 1
+			}
+
+		}
+,
+		"other" : 		{
 
 		}
 
