@@ -27,7 +27,6 @@ void setup()
   Serial.begin(9600);
 }
 
-
 void loop()
 {
   int32_t sensorVal = digitalRead(sensorPin);
