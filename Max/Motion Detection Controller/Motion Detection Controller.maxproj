@@ -2,7 +2,7 @@
 	"name" : "Motion Detection Controller",
 	"version" : 1,
 	"creationdate" : 3724163431,
-	"modificationdate" : 3724489589,
+	"modificationdate" : 3725960655,
 	"viewrect" : [ 25.0, 107.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -20,6 +20,11 @@
 				"kind" : "helpfile",
 				"local" : 1
 			}
+,
+			"slideDMX.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
 
 		}
 ,
@@ -28,10 +33,6 @@
 				"kind" : "object",
 				"local" : 1
 			}
-
-		}
-,
-		"other" : 		{
 
 		}
 
