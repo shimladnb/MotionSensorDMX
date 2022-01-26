@@ -2,7 +2,7 @@
 	"name" : "Motion Detection Controller",
 	"version" : 1,
 	"creationdate" : 3724163431,
-	"modificationdate" : 3725960655,
+	"modificationdate" : 3726048188,
 	"viewrect" : [ 25.0, 107.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -16,13 +16,13 @@
 				"toplevel" : 1
 			}
 ,
-			"imp.artnet.controller.maxhelp" : 			{
-				"kind" : "helpfile",
+			"slideDMX.maxpat" : 			{
+				"kind" : "patcher",
 				"local" : 1
 			}
 ,
-			"slideDMX.maxpat" : 			{
-				"kind" : "patcher",
+			"imp.artnet.controller.maxhelp" : 			{
+				"kind" : "helpfile",
 				"local" : 1
 			}
 
@@ -32,6 +32,14 @@
 			"imp.artnet.controller.mxe64" : 			{
 				"kind" : "object",
 				"local" : 1
+			}
+,
+			"mxj.mxe64" : 			{
+				"kind" : "object"
+			}
+,
+			"imp.artnet.controller.mxe" : 			{
+				"kind" : "object"
 			}
 
 		}

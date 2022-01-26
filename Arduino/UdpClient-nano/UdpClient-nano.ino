@@ -7,15 +7,15 @@ static int sensorPin = 5;
 
 void setup() {
   Serial.begin(9600);
-  uint8_t mac[6] = {0x00, 0x01, 0x02, 0x03, 0x04, 0x07};
-  Ethernet.begin(mac, IPAddress(23, 0, 0, 4));
+  uint8_t mac[6] = {0x00, 0x01, 0x02, 0x03, 0x04, 0x08};
+  Ethernet.begin(mac, IPAddress(23, 0, 0, 5));
   next = millis() + 10;
 }
 
 void loop() {
   int sensorVal = digitalRead(sensorPin);
   Serial.println(sensorVal);
-  char message[] = "3 ";
+  char message[] = "4 ";
 
   if (sensorVal == 1) {
     strcat(message, "on");
