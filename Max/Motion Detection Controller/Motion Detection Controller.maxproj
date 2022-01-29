@@ -2,7 +2,7 @@
 	"name" : "Motion Detection Controller",
 	"version" : 1,
 	"creationdate" : 3724163431,
-	"modificationdate" : 3726048188,
+	"modificationdate" : 3726311948,
 	"viewrect" : [ 25.0, 107.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -35,11 +35,13 @@
 			}
 ,
 			"mxj.mxe64" : 			{
-				"kind" : "object"
+				"kind" : "object",
+				"local" : 1
 			}
 ,
 			"imp.artnet.controller.mxe" : 			{
-				"kind" : "object"
+				"kind" : "object",
+				"local" : 1
 			}
 
 		}
