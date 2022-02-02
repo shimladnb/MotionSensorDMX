@@ -2,7 +2,7 @@
 	"name" : "Motion Detection Controller",
 	"version" : 1,
 	"creationdate" : 3724163431,
-	"modificationdate" : 3726311948,
+	"modificationdate" : 3726656209,
 	"viewrect" : [ 25.0, 107.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
